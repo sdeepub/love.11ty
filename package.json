@@ -1,5 +1,5 @@
 {
-  "name": "EleventyOne",
+  "name": "Love.11TY",
   "version": "3.0.0",
   "description": "A project bootstrap for Eleventy sites. With pipelines for PostCSS, JavaScript, and serverless functions",
   "author": "Phil Hawksworth",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "npm run dev",
     "dev": "cross-env ELEVENTY_ENV=dev eleventy --serve",
-    "build": "cross-env ELEVENTY_ENV=prod eleventy",
+    "build": "cross-env ELEVENTY_ENV=prod eleventy --pathprefix=/love.11ty/",
     "seed": "cross-env ELEVENTY_ENV=seed eleventy"
   },
   "repository": {
