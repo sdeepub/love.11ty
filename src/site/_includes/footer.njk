@@ -1,0 +1,29 @@
+<footer>
+<nav class="post-navigation" aria-label="Post navigation">
+  {% if collections.post %}
+    {% set previousPost = collections.post | getPreviousCollectionItem(page) %}
+    {% set nextPost = collections.post | getNextCollectionItem(page) %}
+  {% endif %}
+
+  <div class="nav-links-wrapper">
+    
+    {# Far Left Column #}
+    <div class="nav-column nav-previous">
+      {% if previousPost %}
+        <a href="{{ previousPost.url }}">&larr; {{ previousPost.data.title }}</a>
+      {% endif %}
+    </div>
+
+    {# Middle Home Text Link #}
+    <div class="nav-home"><a href="/">Love.11TY</a></div>
+
+    {# Far Right Column #}
+    <div class="nav-column nav-next">
+      {% if nextPost %}
+        <a href="{{ nextPost.url }}">{{ nextPost.data.title }} &rarr;</a>
+      {% endif %}
+    </div>
+
+  </div>
+</nav>
+</footer>

@@ -1,0 +1,28 @@
+/* breakpoints for media queries */
+$narrow: 400px;
+$mid: 740px;
+$wide: 1200px;
+
+/* colours */
+/*
+$page-color: #556B2F;
+$accent-color: #6B8E23;
+$text-color: #F5F5DC;
+
+$page-color: #8A9A86;
+$accent-color: #A3B19B;
+$text-color: #2F3E32;
+*/
+$page-color: #556B2F;
+$accent-color: #6B8E23;
+$text-color: #F5F5DC;
+/*
+$page-color: #4A5D4E;
+$accent-color: #D2B48C;
+$text-color: #F4F1EA;
+*/
+$dark-color: #000;
+
+/* fonts */
+$body-font: 'Athiti', sans-serif;
+$header-font: 'Prompt', sans-serif;
