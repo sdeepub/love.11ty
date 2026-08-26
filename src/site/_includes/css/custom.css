@@ -53,3 +53,17 @@ blockquote {
   border-radius: 0 4px 4px 0; 
 }
 
+/* 1. Target the outer responsive container wrapper */
+.eleventy-plugin-youtube-embed {
+  border-radius: 6px;       /* Set your desired corner roundness */
+  overflow: hidden;          /* Forces the video inside to clip to the corners */
+  isolation: isolate;        /* Fixes webkit/Safari glitch where overflow:hidden fails */
+}
+
+/* 2. Target the actual iframe inside the wrapper */
+.eleventy-plugin-youtube-embed iframe {
+  border-radius: 6px;       /* Match the parent wrapper's radius */
+  border: none;              /* Removes default iframe borders */
+}
+
+
