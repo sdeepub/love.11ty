@@ -34,4 +34,4 @@ release_date: 2011-12-01
 
 รอยยิ้ม - แค่นั้น
 
-Playlist &hearts; รอก่อนนะ
+Playlist &#9825; รอก่อนนะ
