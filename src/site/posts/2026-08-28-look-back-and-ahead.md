@@ -2,8 +2,8 @@
 date: 2026-08-28T10:32:12+07:00
 
 layout: layouts/post
-title: ""
-subtitle: "วันนี้วันศุกร์ เราขอให้เธอมีความสุขมาก ๆ และมาก ๆ กว่าทุก ๆ วันนะ"
+title: "มาแล้วล่ะ!"
+subtitle: "นานแล้วนะ นาน ... เกือบจะลืมไปแล้ว ว่าตอนนั้นเป็นยังไง"
 hero_image: https://source.unsplash.com/3FVeCbX6OrY
 youtube : "https://youtu.be/watch?v=S_JeuGdXl5o"
 category:
