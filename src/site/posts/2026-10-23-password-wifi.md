@@ -4,7 +4,7 @@ layout: layouts/post
 title: "Password Wi-Fi"
 subtitle: "WPA2-3-4 Give Me All You've Got Baby"
 hero_image: https://source.unsplash.com/3FVeCbX6OrY
-youtube : "https://www.youtube.com/embed/RuqwHZakNHU?si=9oLKt1neny8wsO0Y"
+youtube : "https://youtu.be/watch?v=RuqwHZakNHU"
 category:
   - Beat
 tags:
