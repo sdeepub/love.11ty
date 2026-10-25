@@ -1,5 +1,5 @@
 ---
-date: 2026-10-23T18:37:30+07:00
+date: 2026-10-25T22:03:24+07:00
 layout: layouts/post
 title: "หายไป สักที"
 subtitle: "ความเจ็บปวด ซ้ำ ๆ จนกว่า : Panpsychism"
