@@ -1,6 +1,5 @@
 ---
-date: 2026-10-25T20:56:47+07:0
-
+date: 2026-10-25T20:56:47+07:00
 layout: layouts/post
 title: "หายไป สักที"
 subtitle: "จนกว่า พวกเรา จะได้พบกันใหม่ : Panpsychism"
@@ -9,7 +8,7 @@ youtube : "https://www.youtube.com/watch?v=uc6f_2nPSX8"
 category:
   - Progressive Pop
 tags:
-  - Progressive Pop
+  - Styx
   - post
 author: thiagorossener
 song: "Styx - Mr. Roboto"
